@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pavithra-1123/static/css/main.3f3343c7.css",
-    "main.js": "/pavithra-1123/static/js/main.bd3f9ee5.js",
-    "static/media/company.jpg": "/pavithra-1123/static/media/company.4234fa4bddbdd59ed2f3.jpg",
-    "index.html": "/pavithra-1123/index.html",
-    "main.3f3343c7.css.map": "/pavithra-1123/static/css/main.3f3343c7.css.map",
-    "main.bd3f9ee5.js.map": "/pavithra-1123/static/js/main.bd3f9ee5.js.map"
+    "main.css": "/ZohoTechCropProject/static/css/main.b29e346b.css",
+    "main.js": "/ZohoTechCropProject/static/js/main.bd3f9ee5.js",
+    "static/media/company.jpg": "/ZohoTechCropProject/static/media/company.4234fa4bddbdd59ed2f3.jpg",
+    "index.html": "/ZohoTechCropProject/index.html",
+    "main.b29e346b.css.map": "/ZohoTechCropProject/static/css/main.b29e346b.css.map",
+    "main.bd3f9ee5.js.map": "/ZohoTechCropProject/static/js/main.bd3f9ee5.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f3343c7.css",
+    "static/css/main.b29e346b.css",
     "static/js/main.bd3f9ee5.js"
   ]
 }
