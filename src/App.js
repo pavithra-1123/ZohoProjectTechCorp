@@ -3,9 +3,8 @@ import { ListPage1 } from './1_Task_ListDetails';
 import { HomePage } from './1_Task_Navbar';
 import { BrowserRouter, Route,  Routes } from 'react-router-dom';
 
-import './App.css';
 
-function App() {
+export function App() {
   return (
     <>
      <BrowserRouter>
@@ -19,4 +18,3 @@ function App() {
   );
 }
 
-export default App;
