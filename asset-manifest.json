@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ZohoTechCropProject/static/css/main.b29e346b.css",
-    "main.js": "/ZohoTechCropProject/static/js/main.bd3f9ee5.js",
+    "main.js": "/ZohoTechCropProject/static/js/main.215e007f.js",
     "static/media/company.jpg": "/ZohoTechCropProject/static/media/company.4234fa4bddbdd59ed2f3.jpg",
     "index.html": "/ZohoTechCropProject/index.html",
     "main.b29e346b.css.map": "/ZohoTechCropProject/static/css/main.b29e346b.css.map",
-    "main.bd3f9ee5.js.map": "/ZohoTechCropProject/static/js/main.bd3f9ee5.js.map"
+    "main.215e007f.js.map": "/ZohoTechCropProject/static/js/main.215e007f.js.map"
   },
   "entrypoints": [
     "static/css/main.b29e346b.css",
-    "static/js/main.bd3f9ee5.js"
+    "static/js/main.215e007f.js"
   ]
 }
