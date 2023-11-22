@@ -2,7 +2,7 @@ let ZohoTechDetails=[
     {
         "empId":1,
         "empName":"Pavithra ",
-        "empUsername":"Pavi123",
+        "empUsername":"Pavi1233",
         "empPassword":"Pavi342",
         "empDesignation":"Java Full Stack Developer",
         "empExperience":1,
